@@ -5,7 +5,7 @@
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Histórias de usuários](#2-historias-de-usuario)
+* [2. Histórias de usuário](#2-historias-de-usuario)
 
  ## 1. Resumo do projeto
 
@@ -19,4 +19,5 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 #### [Historia de usuário 4] Garçom/Garçonete deve ver os pedidos prontos para servir
 #### [Historia de usuário 5] Administrador(a) de loja deve administrar seus funcionários
 #### [História de usuário 6] Administrador(a) de loja deve administrar os produtos
+
 
