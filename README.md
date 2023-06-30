@@ -9,5 +9,5 @@
 
   ## 1. Resumo do projeto
 
-  Neste projeto foi desenvolvido uma interface para uma hamburgueria 
+Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo diferentes telas destinadas ao atendimento, cozinha e administração. A aplicação foi desenvolvida com REACT e com consumo de uma API. 
 
