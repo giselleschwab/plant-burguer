@@ -14,7 +14,7 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 ## 2. Histórias de usuários
 
 #### [Historia de usuario 1] Garçom/Garçonete deve poder entrar no sistema, caso o admin já lhe tenha dado as credenciais
-### [História de usuário 2] Garçom/Garçonete deve ser capaz de anotar o pedido do cliente
+#### [História de usuário 2] Garçom/Garçonete deve ser capaz de anotar o pedido do cliente
 #### [História de usuário 3] Chefe de cozinha deve ver os pedidos
 #### [Historia de usuário 4] Garçom/Garçonete deve ver os pedidos prontos para servir
 #### [Historia de usuário 5] Administrador(a) de loja deve administrar seus funcionários
