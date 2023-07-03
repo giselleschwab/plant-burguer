@@ -34,5 +34,16 @@ Você pode acessar uma dessas rotas logando com os seguintes usuários:
 
 ### Atendimento
  Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
- Ao acessar o menu "Novo Pedido" é capaz de anotar o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
+ Ao acessar a rota "Novo Pedido" o atendente anota o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
+ Após clicar "Enviar Pedido" os pedidos são enviados para a cozinha. 
 
+<table>
+  <tr>
+    <th style="background-color: red;">Cabeçalho 1</th>
+    <th style="background-color: blue;">Cabeçalho 2</th>
+  </tr>
+  <tr>
+    <td style="background-color: yellow;">Dado 1</td>
+    <td style="background-color: green;">Dado 2</td>
+  </tr>
+</table>
