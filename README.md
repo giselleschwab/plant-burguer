@@ -1,16 +1,19 @@
-<div align="center" height:40px;> Plant & Burguer </div>
+# Plant & Burguer
 
-<p align="center"><img src="public/imagens/logo.png" alt="logo plant and burguer" width="200px";></p>
+<div class="center"><img src="public/imagens/logo.png" alt="logo plant and burguer" width="200px";></div>
 
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Histórias de usuário](#2-historias-de-usuario)
 * [3. Detalhamento do projeto](#3-detalhamento-do-projeto)
+* [4. Ferramentas utilizadas](#4-ferramentas-utilizadas)
+
 
  ## 1. Resumo do projeto
 
 Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo diferentes telas destinadas ao atendimento, cozinha e administração. A aplicação foi desenvolvida utilizando o REACT e com consumo de uma API.
+
 
 ## 2. Histórias de usuários
 
@@ -65,5 +68,19 @@ Nessa rota, é possível visualizar, cadastrar, editar e excluir produtos e func
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
 </div>   
 
+
+## 5. Desenvolvedoras
+
+Giselle Schwab Silva  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/giselle-schwab-silva-58930610a/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/giselleschwab)
+
+Melina Osik  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/melina-osik/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/osikmelina)
+
+Talita Martins  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/talitamsx/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/talitamsx)
 
 
