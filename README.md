@@ -1,6 +1,6 @@
 # Plant & Burguer
 
-<div class="center"><img src="public/imagens/logo.png" alt="logo plant and burguer" width="200px";></div>
+<div align="center"><img src="public/imagens/logo.png" alt="logo plant and burguer" width="200px";></div>
 
 ## Índice
 
