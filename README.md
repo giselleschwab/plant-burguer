@@ -38,15 +38,32 @@ Você pode acessar uma dessas rotas logando com os seguintes usuários:
 
 
 Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
-Ao acessar a rota "Novo Pedido" o atendente anota o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
-Após clicar "Enviar" os pedidos são enviados para a cozinha. 
+Ao acessar a rota "Novo Pedido" o atendente insere o nome do cliente e, em seguida, é redirecionado para o menu do cardápio. Ao selecionar os itens desejados no menu, eles são automaticamente adicionados ao resumo do pedido.
+Após finalizar o pedido e ao clicar em "Enviar", os pedidos são imediatamente encaminhados à cozinha.
+
+Na rota "Pedidos para servir" o atendente tem acesso aos pedidos que vem da cozinha e que já estão prontos para serem servidos, após serem entregues os pedidos podem ser marcados como finalizados, e podem ser visualizados na rota "Pedidos Entregues". 
 
 
 ### Cozinha
-Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendimento. Após terminar o pedido e ao clicar em "Pronto" o pedido é enviado para a rota "Para servir" no atendimento. Além disso, na aba "Finalizados" o cozinheiro/cozinheira vai poder visualizar os pedidos que foram finalizados e quanto tempo levou o preparo.
+Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendimento. Após terminar o pedido e ao clicar em "Pronto" o pedido é enviado para a rota "Pedidos para servir" no atendimento. Além disso, na aba "Finalizados" o cozinheiro/cozinheira vai poder visualizar os pedidos que foram finalizados e quanto tempo levou o preparo.
 
 
 ### Administrador 
 Nessa rota, é possível visualizar, cadastrar, editar e excluir produtos e funcionários.
+
+
+## 4. Ferramentas utilizadas
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
+</div>   
+
 
 
