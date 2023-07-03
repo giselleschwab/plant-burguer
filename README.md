@@ -34,7 +34,7 @@ Você pode acessar uma dessas rotas logando com os seguintes usuários:
 | admin@plantburguer.com       | 123456 |
 
 
-### Atendimento ![image](<img src="https://github.com/giselleschwab/plant-burguer/blob/assets/118859853/d0f25933-bc6c-42c1-919f-830213d8154e" width="400">)
+### Atendimento ![image]<img src="https://github.com/giselleschwab/plant-burguer/blob/assets/118859853/d0f25933-bc6c-42c1-919f-830213d8154e" width="400">
 
 
 Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
