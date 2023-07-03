@@ -45,6 +45,6 @@ Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendim
 
 
 ### Administrador 
-Nesta rota, é possível visualizar todos os produtos e funcionários cadastrados, além de poder cadastrar novos produtos e funcionários e realizar edições e exclusões.
+Nessa rota, é possível visualizar todos os produtos e funcionários cadastrados, além de poder cadastrar novos produtos e funcionários e realizar edições e exclusões.
 
 
