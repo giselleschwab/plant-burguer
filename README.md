@@ -8,6 +8,7 @@
 * [2. Histórias de usuário](#2-historias-de-usuario)
 * [3. Detalhamento do projeto](#3-detalhamento-do-projeto)
 * [4. Ferramentas utilizadas](#4-ferramentas-utilizadas)
+* [5. Desenvolvedoras](#5-desenvolvedoras)
 
 
  ## 1. Resumo do projeto
