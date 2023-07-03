@@ -6,10 +6,11 @@
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Histórias de usuário](#2-historias-de-usuario)
+* [3. Detalhamento do projeto](#3-detalhamento-do-projeto)
 
  ## 1. Resumo do projeto
 
-Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo diferentes telas destinadas ao atendimento, cozinha e administração. A aplicação foi desenvolvida com REACT e com consumo de uma API.
+Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo diferentes telas destinadas ao atendimento, cozinha e administração. A aplicação foi desenvolvida utilizando o REACT e com consumo de uma API.
 
 ## 2. Histórias de usuários
 
@@ -20,4 +21,17 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 #### [Historia de usuário 5] Administrador(a) de loja deve administrar seus funcionários
 #### [História de usuário 6] Administrador(a) de loja deve administrar os produtos
 
+## 3. Detalhamentos do projeto 
+A aplicação contêm três tipos de rotas, uma para o atendimento, outra para a cozinha e outra para o administrador.
+
+Você pode acessar uma dessas rotas logando com os seguintes usuários e senha:
+| USUÁRIO                      |SENHA|
+|------------------------------|:----:|
+| atendimento@plantburguer.com | 123456 |
+| cozinha@plantburguer.com     | 123456 |
+| admin@plantburguer.com       | 123456 |
+
+### Atendimento
+ Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
+ Ao acessar o menu "Novo Pedido" é capaz de anotar o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
 
