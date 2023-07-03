@@ -34,7 +34,8 @@ Você pode acessar uma dessas rotas logando com os seguintes usuários:
 | admin@plantburguer.com       | 123456 |
 
 
-### Atendimento
+### Atendimento ![image](https://github.com/giselleschwab/plant-burguer/assets/118859853/d0f25933-bc6c-42c1-919f-830213d8154e)
+
 Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
 Ao acessar a rota "Novo Pedido" o atendente anota o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
 Após clicar "Enviar" os pedidos são enviados para a cozinha. 
@@ -45,6 +46,6 @@ Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendim
 
 
 ### Administrador 
-Nessa rota, é possível visualizar todos os produtos e funcionários cadastrados, além de poder cadastrar novos produtos e funcionários e realizar edições e exclusões.
+Nessa rota, é possível visualizar, cadastrar, editar e excluir produtos e funcionários.
 
 
