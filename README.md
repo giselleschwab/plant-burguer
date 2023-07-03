@@ -28,7 +28,7 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 ## 3. Detalhamentos do projeto 
 A aplicação contêm três tipos de rotas, uma para o atendimento, outra para a cozinha e outra para o administrador.
 
-Você pode acessar uma dessas rotas logando com os seguintes usuários:
+Para acessar qualquer uma dessas rotas, faça login usando os seguintes usuários:
 
 | USUÁRIO                      |SENHA|
 |------------------------------|:----:|
