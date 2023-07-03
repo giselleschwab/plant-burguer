@@ -21,6 +21,7 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 #### [Historia de usuário 5] Administrador(a) de loja deve administrar seus funcionários
 #### [História de usuário 6] Administrador(a) de loja deve administrar os produtos
 
+
 ## 3. Detalhamentos do projeto 
 A aplicação contêm três tipos de rotas, uma para o atendimento, outra para a cozinha e outra para o administrador.
 
@@ -32,18 +33,18 @@ Você pode acessar uma dessas rotas logando com os seguintes usuários:
 | cozinha@plantburguer.com     | 123456 |
 | admin@plantburguer.com       | 123456 |
 
-### Atendimento
- Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
- Ao acessar a rota "Novo Pedido" o atendente anota o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
- Após clicar "Enviar Pedido" os pedidos são enviados para a cozinha. 
 
-<table>
-  <tr>
-    <th style="background-color: red;">Cabeçalho 1</th>
-    <th style="background-color: blue;">Cabeçalho 2</th>
-  </tr>
-  <tr>
-    <td style="background-color: yellow;">Dado 1</td>
-    <td style="background-color: green;">Dado 2</td>
-  </tr>
-</table>
+### Atendimento
+Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
+Ao acessar a rota "Novo Pedido" o atendente anota o nome do cliente e após isso é redirecionado para o menu do cardápio onde ao clicar nos itens do menu, eles são automaticamente adicionados no resumo do pedido.
+Após clicar "Enviar" os pedidos são enviados para a cozinha. 
+
+
+### Cozinha
+Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendimento. Após terminar o pedido e ao clicar em "Pronto" o pedido é enviado para a rota "Para servir" no atendimento. Além disso, na aba "Finalizados" o cozinheiro/cozinheira vai poder visualizar os pedidos que foram finalizados e quanto tempo levou o preparo.
+
+
+### Administrador 
+Nesta rota, é possível visualizar todos os produtos e funcionários cadastrados, além de poder cadastrar novos produtos e funcionários e realizar edições e exclusões.
+
+
