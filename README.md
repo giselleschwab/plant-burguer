@@ -29,7 +29,7 @@ Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo dife
 ## 3. Detalhamentos do projeto 
 A aplicação contêm três tipos de rotas, uma para o atendimento, outra para a cozinha e outra para o administrador.
 
-Para acessar qualquer uma dessas rotas, faça login usando os seguintes usuários:
+Para entrar e acessar qualquer uma das rotas clique em https://plant-burguer.vercel.app e faça login com as credenciais abaixo:
 
 | USUÁRIO                      |SENHA|
 |------------------------------|:----:|
