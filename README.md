@@ -1,14 +1,25 @@
 # Plant & Burguer
 
-<div align="center"><img src="public/imagens/logo.png" alt="logo plant and burguer" width="200px";></div>
+<div align="center">
+ <p> Ferramentas utilizadas </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
+</div>   
+
+
 
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
 * [2. Histórias de usuário](#2-historias-de-usuario)
 * [3. Detalhamento do projeto](#3-detalhamento-do-projeto)
-* [4. Ferramentas utilizadas](#4-ferramentas-utilizadas)
-* [5. Desenvolvedoras](#5-desenvolvedoras)
+* [4. Desenvolvedoras](#5-desenvolvedoras)
 
 
  ## 1. Resumo do projeto
@@ -56,21 +67,8 @@ Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendim
 Nessa rota, é possível visualizar, cadastrar, editar e excluir produtos e funcionários.
 
 
-## 4. Ferramentas utilizadas
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
-</div>   
-
-
-## 5. Desenvolvedoras
+## 4. Desenvolvedoras
 
 Giselle Schwab Silva  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/giselle-schwab-silva-58930610a/)
 &nbsp;
