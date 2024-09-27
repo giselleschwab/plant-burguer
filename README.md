@@ -1,7 +1,6 @@
 # Plant & Burguer
 
 <div align="center">
- <p> Ferramentas utilizadas </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30px";/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
@@ -13,73 +12,53 @@
 </div>   
 
 
+ ## 1. Project Summary
 
-## Índice
+In this project, an interface was developed for a burger restaurant containing different screens for service, kitchen, and administration. The application was developed using REACT and consumed an API.
 
-* [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Histórias de usuário](#2-historias-de-usuario)
-* [3. Detalhamento do projeto](#3-detalhamento-do-projeto)
-* [4. Desenvolvedoras](#5-desenvolvedoras)
+## 2. User Stories
 
-
- ## 1. Resumo do projeto
-
-Neste projeto foi desenvolvido uma interface para uma hamburgueria contendo diferentes telas destinadas ao atendimento, cozinha e administração. A aplicação foi desenvolvida utilizando o REACT e com consumo de uma API.
-
-
-## 2. Histórias de usuários
-
-#### [Historia de usuario 1] Garçom/Garçonete deve poder entrar no sistema, caso o admin já lhe tenha dado as credenciais
-#### [História de usuário 2] Garçom/Garçonete deve ser capaz de anotar o pedido do cliente
-#### [História de usuário 3] Chefe de cozinha deve ver os pedidos
-#### [Historia de usuário 4] Garçom/Garçonete deve ver os pedidos prontos para servir
-#### [Historia de usuário 5] Administrador(a) de loja deve administrar seus funcionários
-#### [História de usuário 6] Administrador(a) de loja deve administrar os produtos
+#### [User Story 1] Waiter/Waitress should be able to log into the system if the admin has already provided the credentials.
+#### [User Story 2] Waiter/Waitress should be able to take the customer’s order.
+#### [User Story 3] Head chef should be able to see the orders.
+#### [User Story 4] Waiter/Waitress should be able to see the orders ready to serve.
+#### [User Story 5] Store Administrator should manage their employees.
+#### [User Story 6] Store Administrator should manage the products.
 
 
-## 3. Detalhamentos do projeto 
-A aplicação contêm três tipos de rotas, uma para o atendimento, outra para a cozinha e outra para o administrador.
+## 3. Project Details
+The application contains three types of routes: one for service, another for the kitchen, and another for the administrator.
 
-Para entrar e acessar qualquer uma das rotas clique em https://plant-burguer.vercel.app e faça login com as credenciais abaixo:
+To log in and access any of the routes, click on https://plant-burguer.vercel.app and log in with the credentials below:
 
-| USUÁRIO                      |SENHA|
+| USER                         |PASSWORD|
 |------------------------------|:----:|
 | atendimento@plantburguer.com | 123456 |
 | cozinha@plantburguer.com     | 123456 |
 | admin@plantburguer.com       | 123456 |
 
 
-### Atendimento
+### Service
+
+In the service route, the waiter/waitress can place a new order and also access orders that are ready to be served. Upon accessing the "New Order" route, the attendant enters the customer's name and is then redirected to the menu. By selecting the desired items from the menu, they are automatically added to the order summary. After finalizing the order and clicking "Send," the orders are immediately forwarded to the kitchen.
+
+In the "Orders to Serve" route, the attendant has access to the orders coming from the kitchen that are ready to be served. Once delivered, the orders can be marked as completed and viewed in the "Delivered Orders" route.
 
 
-Na rota do atendimento, o garçom/garçonete pode realizar um novo pedido e também acessar os pedidos que já estão prontos para serem servidos.
-Ao acessar a rota "Novo Pedido" o atendente insere o nome do cliente e, em seguida, é redirecionado para o menu do cardápio. Ao selecionar os itens desejados no menu, eles são automaticamente adicionados ao resumo do pedido.
-Após finalizar o pedido e ao clicar em "Enviar", os pedidos são imediatamente encaminhados à cozinha.
-
-Na rota "Pedidos para servir" o atendente tem acesso aos pedidos que vem da cozinha e que já estão prontos para serem servidos, após serem entregues os pedidos podem ser marcados como finalizados, e podem ser visualizados na rota "Pedidos Entregues". 
+### Kitchen
+In the kitchen route, the cook receives the orders that come from service. After finishing the order and clicking "Ready," the order is sent to the "Orders to Serve" route in the service section. Additionally, in the "Completed" tab, the cook will be able to see the orders that have been completed and how long the preparation took.
 
 
-### Cozinha
-Na rota da cozinha, o cozinheiro/cozinheira recebe os pedidos que vem do atendimento. Após terminar o pedido e ao clicar em "Pronto" o pedido é enviado para a rota "Pedidos para servir" no atendimento. Além disso, na aba "Finalizados" o cozinheiro/cozinheira vai poder visualizar os pedidos que foram finalizados e quanto tempo levou o preparo.
+### Administrator
+In this route, it is possible to view, register, edit, and delete products and employees.
 
 
-### Administrador 
-Nessa rota, é possível visualizar, cadastrar, editar e excluir produtos e funcionários.
+## 4. Developers
 
+Giselle Schwab Silva  
 
+Melina Osik  
 
-## 4. Desenvolvedoras
-
-Giselle Schwab Silva  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/giselle-schwab-silva-58930610a/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/giselleschwab)
-
-Melina Osik  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/melina-osik/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/osikmelina)
-
-Talita Martins  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/talitamsx/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/talitamsx)
+Talita Martins 
 
 
